@@ -1,7 +1,4 @@
-yoinup.com
+edipotrebol labs
 ==========
 
-bundle exec rackup
-
-
-Setup new pages adding them to config.ru
+An experimental project based on Foundation
