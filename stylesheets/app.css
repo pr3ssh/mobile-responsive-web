@@ -20,3 +20,36 @@
 html, body {
 	height: 100%;
 }
+
+
+.green {
+
+
+	background-color: green;
+	height: 100%;
+	text-align: center;
+
+}
+
+
+
+.orange {
+
+
+	background-color: orange;
+	height: 100%;
+	text-align: center;
+
+}
+
+
+.red {
+
+
+	background-color: red;
+	height: 100%;
+	text-align: center;
+
+
+
+}
